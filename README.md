@@ -2,7 +2,6 @@
 **bettysl20/bettysl20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +13,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
+## Hi, I'm Beatriz Secca, a software developer from South America.
 
-## Hi, I'm Beatriz Secca, a Developer from Perú.
+**Glad to see you here!** :star_struck: <br> 
+I like literature books, dogs and sometimes walking around my city on weekends.
+
+[Me gusta la tecnlogia, la programacion y ayudar a que las cosas puedan ser mas simples y utiles para personas
+Creo que hay diferentes forma de aprender, pero un calendario con objetivos y tiempo y sobre todo acompañado es mas fructifero :)]
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -40,7 +44,8 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help with ....
 - 💬 Ask me about ...
 - ⚡️ Fun-Fact: I like dogs, walk or go out of town and Korean dramas
-  **Languages and Tools:**
+
+**Languages and Tools:**
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
