@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## Hi, I'm Beatriz Secca, a software developer from South America.
 
-**Glad to see you here!** :star_struck: <br> 
-I like literature books, dogs and sometimes walking around my city on weekends.
+## Hi, I'm Beatriz, a software developer from South America.
 
-[Me gusta la tecnlogia, la programacion y ayudar a que las cosas puedan ser mas simples y utiles para personas
-Creo que hay diferentes forma de aprender, pero un calendario con objetivos y tiempo y sobre todo acompañado es mas fructifero :)]
+**Glad to see you here!** :star_struck:
+<br>
+I like technology and helping to make things simple and more useful for people.<br>Every day you learn something new, there are different ways to learn but a learning with a program, guided and in a group I think so is more fun. 😄
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -36,14 +35,16 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="reading" src="./img/hobbies-read.jpg" />
+<img width="30%" align="right" alt="reading" src="./img/hobbies-read.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [Portfolio](https://github.com/bettysl20/).
-- 🌱 I’m currently learning Python in a Beginner Study Group
+- 👨🏽‍💻 I’m currently working on my [Portfolio](https://github.com/bettysl20/).
+- 🌱 I’m currently learning Python in a Beginner Study Group.
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ....
-- 💬 Ask me about ...
-- ⚡️ Fun-Fact: I like dogs, walk or go out of town and Korean dramas
+- 🤔 I’m looking for help or improve my english.
+- 💬 Ask me about programming or if you want me to be your "duck debbugging" for a moment to get out of your block, great I would like to learn from it.
+- ⚡️ Fun-Fact: I like literature books, dogs and sometimes walking around my city on weekends.
+
+&nbsp;
 
 **Languages and Tools:**
 
@@ -52,7 +53,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Beatriz's github stats" src="https://github-readme-stats.vercel.app/api?username=bettysl20&show_icons=true&hide_border=false&count_private=true" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -60,21 +61,18 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
-
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+<br />
+<code><img width="8%" src="https://marcas-logos.net/wp-content/uploads/2022/06/Ruby-on-Rails-Logo-500x313.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 
 </p>
 
